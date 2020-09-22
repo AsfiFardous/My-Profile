@@ -22,11 +22,11 @@ const Footer = props => (
     <section>
       <h2>Etiam feugiat</h2>
       <dl className="alt">
-        <dt>Address</dt>
+        {/* <dt>Address</dt> */}
         <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
-        <dt>Phone</dt>
+        {/* <dt>Phone</dt> */}
         <dd>(000) 000-0000 x 0000</dd>
-        <dt>Email</dt>
+        {/* <dt>Email</dt> */}
         <dd>
           <a href="https://codebushi.com">information@untitled.tld</a>
         </dd>

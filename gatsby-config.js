@@ -5,9 +5,9 @@
  */
 
 
-const fs = require('fs');
-const gracefulFs = require('graceful-fs');
-gracefulFs.gracefulify(fs);
+// const fs = require('fs');
+// const gracefulFs = require('graceful-fs');
+// gracefulFs.gracefulify(fs);
 
 module.exports = {
   /* Your site config here */
